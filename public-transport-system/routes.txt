@@ -1,0 +1,4 @@
+5 3 3
+stationA stationD 40
+`` stationD 40
+stationA stationD -10

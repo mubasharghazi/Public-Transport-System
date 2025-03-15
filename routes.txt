@@ -1,0 +1,3 @@
+StationA StationB 40
+LM Multan 190
+Multan Laore 180

@@ -1,0 +1,2 @@
+ghazi 123 email
+user1 password123 user1@example.com

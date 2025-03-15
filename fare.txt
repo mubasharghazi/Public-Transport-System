@@ -1,0 +1,3 @@
+StationA StationB 40
+LM Manga 100
+Manga Chichawatni 900
